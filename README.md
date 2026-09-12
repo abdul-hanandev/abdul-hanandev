@@ -4,9 +4,9 @@
 <div align="center">
 
 <img
-  src="https://github.com/abdul-hanandev.png"
-  width="150"
-  height="150"
+  src="./abdul-hanan-profile.png.png"
+  width="200"
+  height="200"
   alt="Abdul Hanan"
   style="border-radius:50%;"
 />
@@ -20,7 +20,7 @@
   alt="Abdul Hanan typing animation"
 />
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/abdul-hanandev">
   <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Hanan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
