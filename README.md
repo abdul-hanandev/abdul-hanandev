@@ -322,20 +322,6 @@ Hantalyze focuses on building practical software and digital solutions for moder
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-hanandev&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&area_color=0A66C2&hide_border=true"
-  alt="Abdul Hanan GitHub Contribution Activity"
-/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -437,12 +423,5 @@ I'm always interested in connecting with **software engineers, developers, techn
   />
 </a>
 
-<br/>
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:0A66C2,100:2563EB"
-  alt="Footer"
-/>
 
 </div>
