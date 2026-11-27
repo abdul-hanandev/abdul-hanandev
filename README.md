@@ -26,15 +26,15 @@ I'm pursuing a BS in Computer Science at the University of the Punjab, Gujranwal
 
 ## Selected projects
 
-### [01 · Spendexa-Web — Personal Finance Platform](https://github.com/abdul-hanandev/Spendexa-Web)
+### 01 · Spendexa-Web — Personal Finance Platform
 
-[<img src="https://raw.githubusercontent.com/abdul-hanandev/Spendexa-Web/main/assets/dashboard.png" width="720" alt="Spendexa-Web personal finance dashboard" />](https://github.com/abdul-hanandev/Spendexa-Web)
+<img src="./assets/spendexa-web-demo.png" width="720" alt="Spendexa-Web personal finance dashboard" />
 
 A full-stack rebuild of a C++ console application, moving from CSV persistence to a relational data model and REST API. Covers transactions, budgets, savings goals, loans, investments and reports.
 
 `React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
 
-[Source code](https://github.com/abdul-hanandev/Spendexa-Web) · [Live demo (sign-in required)](https://spendexa-web.vercel.app/) · [Original C++ project](https://github.com/abdul-hanandev/Spendexa)
+Source repository currently private · [Live demo (sign-in required)](https://spendexa-web.vercel.app/) · [Original C++ project](https://github.com/abdul-hanandev/Spendexa)
 
 ### [02 · Tradealyze — Real-Time Trading Simulator](https://github.com/abdul-hanandev/Tradealyze)
 
@@ -44,13 +44,13 @@ A C++ order-matching engine connected to a browser-based trading terminal throug
 
 [Source code](https://github.com/abdul-hanandev/Tradealyze) · [Project walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7473013960057708544/)
 
-### [03 · EstateSync — Housing Society Management](https://github.com/abdul-hanandev/EstateSync)
+### 03 · EstateSync — Housing Society Management
 
 A team-built database systems project for plot availability, bookings, maintenance billing and resident workflows, using role-based access control and relational data modelling.
 
 `Python` · `Flask` · `MySQL` · `Bootstrap` · `Jinja`
 
-[Source code](https://github.com/abdul-hanandev/EstateSync) · [Project walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7479187292763480065/)
+Team coursework project. The source repository is private while the portfolio version is being prepared.
 
 ## Engineering toolkit
 
